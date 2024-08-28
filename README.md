@@ -12,9 +12,9 @@ Although the use of force platforms and instrumented walkways is direct well-est
 
 
 ## What the ```PI-GaPhI``` algorithm does:
-1.	Load and convert INDIP text file (".txt") into a MATLAB matrix
-2.	Detect Gait Cycle Phases from anatomic clustering of channels of PI
-3.	Save and visualize results.
+1.	Load and convert INDIP text file (".txt") into a MATLAB matrix;
+2.	Detect Gait Cycle Phases from anatomic clustering of channels of PI;
+3.	Visualize results.
 
 ## Files description
 The following files are provided within the GitHub repository:
@@ -30,7 +30,7 @@ The following files are provided within the GitHub repository:
               'P': cluster1 'not active' and almost one among cluster2, cluster3 o cluster4 'active';
               'T': only cluster4 'active';
               'S': no cluster 'active';
-  4. Segment Gait Cycle and save results
+  4. Segment Gait Cycle and save results.
 
 
 ## How to prepare your data
