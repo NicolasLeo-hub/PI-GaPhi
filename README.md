@@ -1,4 +1,4 @@
-# PI-GaPhI: Gait cycle Phases Identification from Pressure Insoles (INDIP)
+# PI-GaPhI: Gait-cycle Phases Identification from Pressure Insoles (INDIP)
 
 Accurate detection of foot-floor contact during gait analysis is crucial for estimating spatio-temporal gait parameters. Variability in the sequence of gait phases (HFPS) is also a key factor in assessing fall risk among the elderly and pathological subjects. This repository introduces ```PI-GaPhI```, an approach designed for automatic and user-independent classification of gait cycle phases based on pressure insoles signals.
 
