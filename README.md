@@ -10,6 +10,12 @@ Although the use of force platforms and instrumented walkways is direct well-est
 
 ```PI-GaPhI``` is a robust tool for the accurate and efficient classification of gait phases from pressure insoles data.
 
+
+## What the ```PI-GaPhI``` algorithm does:
+1.	Load and convert INDIP text file (".txt") into a MATLAB matrix
+2.	Detect Gait Cycle Phases from anatomic clustering of channels of PI
+3.	Save and visualize results.
+
 ## Files description
 The following files are provided within the GitHub repository:
 - PI-GaPhI: Main function that guides you through all the main steps of Gait Cycle Phases detection;
@@ -25,12 +31,6 @@ The following files are provided within the GitHub repository:
               'T': only cluster4 'active';
               'S': no cluster 'active';
   4. Segment Gait Cycle and save results
-
-
-## What the ```PI-GaPhI``` algorithm does:
-1.	Load and convert INDIP text file (".txt") into a MATLAB matrix
-2.	Detect Gait Cycle Phases from anatomic clustering of channels of PI
-3.	Save and visualize results.
 
 
 ## How to prepare your data
