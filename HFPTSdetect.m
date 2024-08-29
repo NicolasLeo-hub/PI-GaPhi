@@ -86,7 +86,7 @@ end
 cluster1 = [12, 13, 14, 15, 16];            % Heel
 cluster2 = [11, 10, 9, 5];                  % 5th metatarsal head
 cluster3 = [2, 3, 4, 6, 7, 8];              % 1st metatarsal head
-cluster4 = 1;                               % Toe
+cluster4 = 1;                               % Thumb
 
 % Variables inizialization
 cluster1_active = false(num_samples, 1);
