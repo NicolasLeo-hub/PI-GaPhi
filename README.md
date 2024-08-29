@@ -30,7 +30,7 @@ The following files are provided within the GitHub repository:
               'P': cluster1 'not active' and almost one among cluster2, cluster3 o cluster4 'active';
               'T': only cluster4 'active';
               'S': no cluster 'active';
-  4. Segment Gait Cycle and save results.
+  4. Segment in Gait Cycle (GC) and save results: a GC starts a cycle begins at the first detection of foot contact.  If there are two consecutive transitions, only the first one is considered as a valid cycle start.
 
 
 ## How to prepare your data
